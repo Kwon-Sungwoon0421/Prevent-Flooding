@@ -63,9 +63,10 @@
    - 상태 알림: 수위가 일정 수치를 넘어갔음을 알림  
 
 ## FlowChart
+![F_C](https://github.com/user-attachments/assets/8c4028f8-e10b-46df-85fc-54088e98ece2)  
 
 
-## 사진
+## 사진 및 영상
 ### 회로  
 ![4-2](https://github.com/user-attachments/assets/92849b14-5cbe-4411-bd70-eb40ffbff3e7)  
 
@@ -75,5 +76,7 @@
 ### 수위 도달 여부  
 ![2-1](https://github.com/user-attachments/assets/9bba91d9-cf70-411f-b219-c7c6c2239fab) ![1-1](https://github.com/user-attachments/assets/ee04a0cf-b65f-457e-b0bd-1f89182e688b)  
 
+### 영상
+https://github.com/user-attachments/assets/14b696f6-855c-4ddd-945d-691f826cd7fd
 
 ## 마무리
